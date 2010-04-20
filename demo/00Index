@@ -1,0 +1,2 @@
+demoSampling    Generate 4 samples from the de Haan-Pereira model.
+demoConditionalSampling      Generate 4 samples conditionally on the observations, from the de Haan-Pereira model.
